@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=date\ location\ person
+comment0.target=Found(java.time.LocalDate,\ java.lang.String,\ Person)
+comment1.params=l
+comment1.target=void\ setLocation(java.lang.String)
+comment2.params=o
+comment2.target=void\ setOwner(Person)
+comment3.params=
+comment3.target=java.lang.String\ getLocation()
+comment4.params=
+comment4.target=Person\ getOwner()
+numComments=5

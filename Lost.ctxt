@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=date\ location\ person
+comment0.target=Lost(java.time.LocalDate,\ java.lang.String,\ Person)
+comment1.params=l
+comment1.target=void\ setLocation(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLocation()
+numComments=3

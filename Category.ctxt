@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=date\ person
+comment0.target=Category(java.time.LocalDate,\ Person)
+comment1.params=date
+comment1.target=Category(java.time.LocalDate)
+comment2.params=d
+comment2.target=void\ setDate(java.time.LocalDate)
+comment3.params=c
+comment3.target=void\ setContact(Person)
+comment4.params=
+comment4.target=java.time.LocalDate\ getDate()
+comment5.params=
+comment5.target=Person\ getContact()
+numComments=6
